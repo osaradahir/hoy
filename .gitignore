@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependencias de build
+dist/
+build/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos / configuraciones locales
+.env
+.env.local
+.vercel/
+
+# Logs
+logs/
+*.log
+
+# Archivos temporales
+tmp/
+*.tmp
